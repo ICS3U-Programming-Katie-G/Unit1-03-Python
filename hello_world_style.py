@@ -6,7 +6,7 @@
 
 
 def main():
-    print("Hello people! This has proper style. My friend still has a parasocial relationship with Hank Anderson.")
+    print("Hello people of the world! This has proper style. My friend still has a parasocial relationship with Hank Anderson.")
     print("I tried to copy paste the script of an entire Star Trek episode into my code but it didn't work. That made me sad.")
 
 
